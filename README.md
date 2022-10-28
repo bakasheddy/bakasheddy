@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bakasheddy
-- 👀 I’m interested in ...python, javascript and react
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...python, Data science, Data Analytics and ML/AI
+- 🌱 I’m currently learning ...A Data Analyst
+- 💞️ I’m looking to collaborate on ...Stackoverflow, kaggle and Udacity
 - 📫 How to reach me ...shedrackdavid9@gmail.com
 
 <!---
