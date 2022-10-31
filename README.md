@@ -11,7 +11,7 @@ And i love data😌
 
 ### 📫 How to reach me
 - [email](shedrackdavid9@gmail.com)
-- [Linkdin](https://www.linkedin.com/in/shedrack-david-1a116b235)
+- [Linkedin](https://www.linkedin.com/in/shedrack-david-1a116b235)
 - [twitter](https://twitter.com/BakaSheddy?t=odwpPiqrUbhit6-YEPSd6A&s=09)
 <!---
 bakasheddy/bakasheddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
