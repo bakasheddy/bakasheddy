@@ -1,7 +1,6 @@
 ### 👋 Hi, I’m Shedrack David (@bakasheddy)
 
-I'm a Junior Data Analyst(udacity certified) in transition phase to becoming a data scientist, currently a data science intern at Hamoye AI.
-And i love data😉
+I'm a Junior Data Analyst/data scientist; just a data, Machine learning or AI fanatic. currently a data science intern at Hamoye AI😉
 
 ### 👀 I’m interested in ...
 - Python
