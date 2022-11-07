@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Shedrack David (@bakasheddy)
+### <center>👋 Hi, I’m Shedrack David </center>
 
 I'm a Junior Data Analyst/data scientist; just a data, Machine learning or AI fanatic. currently a data science intern at Hamoye AI😉
 
