@@ -1,6 +1,6 @@
 ### <center>👋 Hi, I’m Shedrack David </center>
 
-I am a data science intern at Hamoye AI. i have over 2 years experience with various programming languages such as Python and SQL. i also have experience working with analytical tools such as Microsoft Excel and Power BI, and data visualization libraries like Pandas, Matplotlib and Seaborn. i have have a strong passion for data analysis and i am confident that I can contribute valuable insights and solutions to any team or Organisation.
+ Data Analyst, I strive to provide actionable insights to drive business decisions and i can actually tell interesting stories through data.
 ### 👀 I’m interested in ...
 - Python
 - Data science
